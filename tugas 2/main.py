@@ -10,8 +10,8 @@ while True:
 
 angka = int(input("masukkan angka:"))
 
-i = 4
-while i <=15 :
-    hasil =angka * 4
+i = 1
+while i <=30:
+    hasil =angka * i
     print(f"{angka}*{i}={hasil}")
-    i=i=4
+    i=i+1
