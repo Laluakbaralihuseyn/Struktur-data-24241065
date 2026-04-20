@@ -1,5 +1,5 @@
 while True:
-    angka = int(input("masukkan angka"))
+    angka = int(input("masukkan angka :"))
     if angka >= 0:
         break
     print("harus positif")
