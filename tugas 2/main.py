@@ -11,7 +11,7 @@ while True:
 angka = int(input("masukkan angka:"))
 
 i = 1
-while i <=30:
+while i <=10:
     hasil =angka * i
     print(f"{angka}*{i}={hasil}")
     i=i+1
